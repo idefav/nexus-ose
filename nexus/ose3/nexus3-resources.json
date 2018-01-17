@@ -55,7 +55,7 @@
                "dockerStrategy": {
                   "from": {
                      "kind": "DockerImage",
-                     "name": "docker.io/sonatype/nexus3:3.0.2"
+                     "name": "docker.io/sonatype/nexus3"
                   }
                }
             },
