@@ -98,7 +98,7 @@
             "name": "nexus3-ephemeral",
             "annotations": {
                "description": "Nexusx3 service, with ephemeral storage. Scaling to more than one replica is not supported",
-               "tags": "repository-managers,nexus3"
+               "tags": "INSTANT-APP,repository-managers,nexus3"
             }
          },
          "labels": {
@@ -300,7 +300,7 @@
             "name": "nexus3-persistent",
             "annotations": {
                "description": "Nexus3 service, with persistent storage. Scaling to more than one replica is not supported",
-               "tags": "repository-managers,nexus3"
+               "tags": "INSTANT-APP,repository-managers,nexus3"
             }
          },
          "labels": {
